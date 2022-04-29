@@ -1,0 +1,4 @@
+If you are experiencing frequent disconnection from the WiFi make sure to check the following factors as all of these can greatly affect your WiFi signals
+2.4 GHz interference Your router may be operating on the same frequency as your cordless telephone system or other nearby devices
+Try to change your routers channel to 1 or 11 the default channel is 6 as these are considered nonoverlapping channels  
+After changing channels restart the WiFi
