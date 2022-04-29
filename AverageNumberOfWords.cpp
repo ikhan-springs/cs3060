@@ -22,7 +22,7 @@ int main () {
 	
 	wordCount = sentenceCount = 0; //Initializing counters
 	
-	inputFile.open("text.txt"); //Opening file for reading
+	inputFile.open("text2.txt"); //Opening file for reading
 	
 	//Loop runs until entire file has been read
 	while (!inputFile.eof()) {
